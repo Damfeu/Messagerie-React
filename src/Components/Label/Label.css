@@ -1,0 +1,6 @@
+label {
+
+   color: rgb(123, 54, 220);
+    display: block; /* S'assure que les labels occupent toute la largeur */
+    margin-bottom: 5px; /* Ajoute un peu d'espace en dessous des labels */
+}
